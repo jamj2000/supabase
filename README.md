@@ -1,3 +1,6 @@
+# Next.js + Supabase <!-- omit in toc -->
+
+---
 
 - [1. Qué es supabase y lenguajes en los que está escrito](#1-qué-es-supabase-y-lenguajes-en-los-que-está-escrito)
   - [1.1. Vista por áreas](#11-vista-por-áreas)
